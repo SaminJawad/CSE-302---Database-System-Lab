@@ -14,5 +14,5 @@ Tools: Oracle XE 18c, SQL Developer
 | Lab_03.sql | String functions, pattern matching, multi-table joins (banking schema) |
 
 ## Author
-Samin Jawad <\br>
+Samin Jawad <br>
 [LinkedIn](https://linkedin.com/in/samin-jawad)
