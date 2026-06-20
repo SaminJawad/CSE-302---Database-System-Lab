@@ -1,7 +1,7 @@
 # CSE302 - Database Systems Lab
 
-Oracle SQL lab work for CSE302 (Database Systems), East West University.
-Instructor: Mahmuda Rawnak Jahan
+Oracle SQL lab work for CSE302 (Database Systems) <br> 
+East West University <br>
 Tools: Oracle XE 18c, SQL Developer
 
 ## Contents
