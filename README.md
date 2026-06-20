@@ -8,10 +8,10 @@ Tools: Oracle XE 18c, SQL Developer
 
 | File | Topic |
 |------|-------|
-| Lab_01.sql | DDL & DML fundamentals — table creation, SELECT, UPDATE, INSERT, DELETE |
-| Lab_02.sql | Constraints, foreign keys, joins, schema alteration |
-| Lab_02_Assignment.sql | Library management system — multi-table joins, NATURAL JOIN |
-| Lab_03.sql | String functions, pattern matching, multi-table joins (banking schema) |
+| Lab 01.sql | DDL & DML fundamentals — table creation, SELECT, UPDATE, INSERT, DELETE |
+| Lab 02.sql | Constraints, foreign keys, joins, schema alteration |
+| Lab 03.sql | String functions, pattern matching, multi-table joins (banking schema) |
+| Lab Assignment 02.sql | Library management system — multi-table joins, NATURAL JOIN |
 
 ## Author
 Samin Jawad <br>
